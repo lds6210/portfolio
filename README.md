@@ -11,7 +11,7 @@
 
 - 💻 GitHub: [@lds6210](https://github.com/lds6210)
 - 🌏 Live Project: [sente.life](https://sente.life)
-- ✉️ Email: _(공개 전 채우기)_
+- ✉️ Email: <lds6210@naver.com>
 - 📍 Korea
 
 ---
@@ -106,7 +106,7 @@
 
 - GitHub: [@lds6210](https://github.com/lds6210)
 - Live: [sente.life](https://sente.life)
-- Email: _(공개 전 채우기)_
+- Email: <lds6210@naver.com>
 
 ---
 
@@ -116,7 +116,7 @@
 - [ ] 회사명/서비스명 노출 수준 최종 결정 (현재: 고용주명 미기재, 도메인 일반 서술)
 - [ ] 사내 코드·내부 스펙·티켓 본문·고객/환자 데이터·시크릿이 단 한 줄도 없는지
 - [ ] 내부 서비스명/저장소명 노출 여부 (현재 본문에 미포함 — 유지)
-- [ ] Email 등 연락처 채우기
+- [x] Email 채움 (lds6210@naver.com)
 - [ ] NDA·근로계약상 공개 가능 범위 본인 확인
 - [ ] 확인 끝나면 이 주석 블록 삭제 후 레포 public 전환
 
